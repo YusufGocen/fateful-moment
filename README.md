@@ -1,5 +1,8 @@
 # Fateful Moment
 
+<img width="9030" height="2688" alt="Group 1" src="https://github.com/user-attachments/assets/04a07448-4658-4bee-a6ba-c55788a0a630" />
+
+
 Fateful Moment, kullanıcıların tarihî karar senaryolarını deneyimlemesini ve seçimlerinin sonucunu **Karar DNA’sı** profiliyle incelemesini sağlayan React Native / Expo mobil uygulamasıdır.
 
 ## Özellikler
